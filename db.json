@@ -1,0 +1,48 @@
+{
+  "cursos": [],
+  "estudiantes": [
+    {
+      "name": "Daniel",
+      "surname": "Gomez",
+      "email": "daniel.gomez@gmail.com",
+      "registrationDate": "2023-08-08T04:13:45.880Z",
+      "id": 2
+    },
+    {
+      "name": "Sergio ",
+      "surname": "Gómez",
+      "email": "sergio.gomez@gmail.com",
+      "registrationDate": "2023-08-08T04:31:57.637Z",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "nombre": "Sergio",
+      "apellido": "Gomez",
+      "email": "sergio.gomez@gmail.com",
+      "password": "12345678",
+      "token": "fk442bfxvomcjwcyob6xhl",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "nombre": "daniel",
+      "apellido": "gomez",
+      "email": "daniel.gomez@gmail.com",
+      "password": "daniel1234",
+      "token": "jev7sve3jgbuacebk678u7",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "nombre": "paula camila",
+      "apellido": "cuervo roa",
+      "email": "paula.cuervor@ucc.edu.co",
+      "password": "Papiluis14.",
+      "token": "zitptgpmvrlmrdrleqrg7e",
+      "role": "admin",
+      "id": 3
+    }
+  ]
+}
